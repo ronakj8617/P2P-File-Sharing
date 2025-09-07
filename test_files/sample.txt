@@ -1,0 +1,15 @@
+This is a sample file for testing the P2P file sharing system.
+It contains multiple lines of text to demonstrate file chunking and transfer.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor 
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+This file should be large enough to test the chunking mechanism.
+Each chunk will be 512KB, so this small file will fit in one chunk.
+
+End of test file.
